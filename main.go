@@ -27,4 +27,5 @@ func init() {
 	RegisterDo(&GorountieTest{})
 	RegisterDo(&ChannelTest{})
 	RegisterDo(&SwitchTest{})
+	RegisterDo(&TypeConvert{})
 }
