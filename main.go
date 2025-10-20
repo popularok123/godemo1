@@ -26,4 +26,5 @@ func init() {
 	RegisterDo(&GenericList{})
 	RegisterDo(&GorountieTest{})
 	RegisterDo(&ChannelTest{})
+	RegisterDo(&SwitchTest{})
 }
