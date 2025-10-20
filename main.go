@@ -21,4 +21,9 @@ func init() {
 	RegisterDo(&Variafun{})
 	RegisterDo(&RangeUse{})
 	RegisterDo(&StringRunes{})
+	RegisterDo(&EnumsInt{})
+	RegisterDo(&EmbededStruct{})
+	RegisterDo(&GenericList{})
+	RegisterDo(&GorountieTest{})
+	RegisterDo(&ChannelTest{})
 }
